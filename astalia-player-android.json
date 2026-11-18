@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/Abouharga/trailer/releases/download/v1.0.1/AstaliaPlayer-1.0.1.apk",
-  "notes": "Phone layout throughout, a landscape player, casting to Chromecast and smart TVs, and offline downloads.",
+  "version": "1.0.2",
+  "url": "https://github.com/Abouharga/trailer/releases/download/v1.0.2/AstaliaPlayer-1.0.2.apk",
+  "notes": "Video that played sound over a black picture now falls back to software decoding by itself. Login errors name the real cause instead of blaming the network. On TV boxes the TV layout, the remote, and Continue Watching all work.",
   "minOs": "24"
 }
