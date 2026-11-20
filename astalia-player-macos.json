@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
   "url": "https://github.com/Abouharga/trailer/releases/download/v1.0.3/AstaliaPlayer-1.0.3.dmg",
-  "notes": "Search results open the title you picked instead of the home screen, the sign-in password can be shown while you type it, and a click on the picture shows or hides the player controls.",
+  "notes": "Search results open the title you picked instead of the home screen, and a click on the picture shows or hides the player controls.",
   "minOs": "12"
 }
