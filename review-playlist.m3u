@@ -1,0 +1,20 @@
+#EXTM3U
+# Astalia Player - sample playlist
+#
+# Openly licensed films, provided so the player can be tried without a
+# subscription. Every title is a Blender Foundation open movie released under
+# the Creative Commons Attribution licence (CC BY 3.0) and is served from the
+# Blender Foundation's own servers.
+#
+#   Sintel (c) copyright Blender Foundation | durian.blender.org
+#   Licensed CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/
+#
+# Astalia Player hosts no content of its own. This file exists only so the
+# app has something to play for anyone who does not yet have a provider.
+#
+#EXTINF:-1 tvg-name="Sintel" group-title="Open Movies (CC BY)",Sintel (2010, Blender Foundation, CC BY)
+https://download.blender.org/durian/movies/Sintel.2010.1080p.mkv
+#EXTINF:-1 tvg-name="Sintel Trailer 720p" group-title="Open Movies (CC BY)",Sintel Trailer 720p (CC BY)
+https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4
+#EXTINF:-1 tvg-name="Sintel Trailer 480p" group-title="Open Movies (CC BY)",Sintel Trailer 480p (CC BY)
+https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
